@@ -6,7 +6,7 @@
 *Personal LeetCode practice log - part of B25GE0101 portfolio*
 
 ## Table of Contents
-- [Arrays & Strings](./arrays-strings)
-- [Basic Algorithms](./basic-algorithms)
-- [Stacks](./stacks)
-- [Linked Lists](./linked-lists)
+- [Arrays & Strings](./Arrays-Strings)
+- [Basic Algorithms](./Basic-Algorithms)
+- [Stacks](./Stacks)
+- [Linked Lists](./Linked-Lists)
